@@ -1,0 +1,2 @@
+# SmimrRybaWiki.io
+SmimrRyba
