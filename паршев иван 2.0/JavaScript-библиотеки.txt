@@ -1,0 +1,6 @@
+swiper.js - слайдер изображений на JavaScript
+ссылка на документацию с первоначальным кодом - https://swiperjs.com/get-started
+
+vanta.js - анимированный фон (для секции hero, например)
+ссылка на сайт - https://swiperjs.com/get-started
+Код есть прям там же на сайте
